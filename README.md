@@ -35,5 +35,5 @@ Light
 ![Light](./Images/Light.png)
 
 Dark
-![Dark](./Images/Darkpng)
+![Dark](./Images/Dark.png)
 
