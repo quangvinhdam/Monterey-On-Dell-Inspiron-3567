@@ -32,8 +32,8 @@
 
 # Screenshot:
 Light
-![Light](./images/Light.png)
+![Light](./Images/Light.png)
 
 Dark
-![Dark](./images/Darkpng)
+![Dark](./Images/Darkpng)
 
