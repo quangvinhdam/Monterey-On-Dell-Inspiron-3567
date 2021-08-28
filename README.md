@@ -31,9 +31,11 @@
 
 
 # Screenshot:
-Light:
+- Light:
+
 ![Light](./Images/Light.png)
 
-Dark:
+- Dark:
+
 ![Dark](./Images/Dark.png)
 
