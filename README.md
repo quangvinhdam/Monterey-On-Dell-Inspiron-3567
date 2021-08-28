@@ -23,7 +23,7 @@
 - All USB Ports
 
 # Not Working:
-- Bluetooth 
+- Bluetooth (Disable in BIOS)
 - Airdrop
 - SDcard Port
 
@@ -31,9 +31,11 @@
 
 
 # Screenshot:
-Light:
+- Light:
+
 ![Light](./Images/Light.png)
 
-Dark:
+- Dark:
+
 ![Dark](./Images/Dark.png)
 
