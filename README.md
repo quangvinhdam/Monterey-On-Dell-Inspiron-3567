@@ -23,7 +23,7 @@
 - All USB Ports
 
 # Not Working:
-- Bluetooth 
+- Bluetooth (disable in BIOS)
 - Airdrop
 - SDcard Port
 
