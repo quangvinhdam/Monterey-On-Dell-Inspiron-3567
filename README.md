@@ -21,11 +21,11 @@
 - Touchpad
 - HDMI Port
 - All USB Ports
+- SDcard Port
 
 # Not Working:
 - Bluetooth (Disable in BIOS)
 - Airdrop
-- SDcard Port
 
 # Preview macOS on Dell Inspiron 15 3567:
 
@@ -39,3 +39,6 @@
 
 ![Dark](./Images/Dark.png)
 
+- SDCard:
+
+![SDCard](./Images/SDCard.png)
