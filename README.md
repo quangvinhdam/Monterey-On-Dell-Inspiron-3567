@@ -21,7 +21,7 @@
 - Touchpad
 - HDMI Port
 - All USB Ports
-- SDcard Port
+- SDCard Port
 
 # Not Working:
 - Bluetooth (Disable in BIOS)
@@ -39,6 +39,6 @@
 
 ![Dark](./Images/Dark.png)
 
-- SDCard (Fixed in Clover 5139):
+- SDCard Port (Fixed in Clover 5139):
 
 ![SDCard](./Images/SDCard.png)
