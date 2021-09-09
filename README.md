@@ -39,6 +39,6 @@
 
 ![Dark](./Images/Dark.png)
 
-- SDCard:
+- SDCard (Fixed in Clover 5139):
 
 ![SDCard](./Images/SDCard.png)
