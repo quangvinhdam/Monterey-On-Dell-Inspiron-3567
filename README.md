@@ -42,3 +42,6 @@
 - SDCard Port (Fixed in Clover 5139):
 
 ![SDCard](./Images/SDCard.png)
+
+# Download EFI Clover (5139)
+- https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567/releases/tag/5139
