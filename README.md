@@ -28,7 +28,7 @@
 - Airdrop
 
 # Preview macOS on Dell Inspiron 15 3567:
-
+- https://www.youtube.com/watch?v=ZpnzJdrAeqo&t=44s
 
 # Screenshot:
 - Light:
