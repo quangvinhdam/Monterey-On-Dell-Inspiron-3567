@@ -39,7 +39,7 @@
 
 ![Dark](./Images/Dark.png)
 
-- SDCard Port (Fixed in Clover 5139):
+- SDCard Port (Fixed in Clover 5141):
 
 ![SDCard](./Images/SDCard.png)
 
