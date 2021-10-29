@@ -21,10 +21,10 @@
 - Touchpad
 - HDMI Port
 - All USB Ports
-- SDCard Port
+- SDCard Port (Fixed in Clover 5139)
+- Bluetooth (Fixed in Clover 5141)
 
 # Not Working:
-- Bluetooth (Disable in BIOS)
 - Airdrop
 
 # Preview macOS on Dell Inspiron 15 3567:
