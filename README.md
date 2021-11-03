@@ -22,7 +22,7 @@
 - HDMI Port
 - All USB Ports
 - SDCard Port (Fixed in Clover 5139)
-- Bluetooth (Fixed in Clover 5141)
+- Bluetooth (Fixed in Clover 5141 + Fix On/Off in Clover 5142)
 
 # Not Working:
 - Airdrop
