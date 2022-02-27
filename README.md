@@ -45,3 +45,9 @@
 
 # Download EFI (Clover 5141)
 - https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567/releases/tag/5142
+
+# Credits
+- Apple for macOS.
+- Acidanthera for OpenCore and all the lovely hackintosh work.
+- Dortania For great and detailed guides.
+- VNOHackintosh Support group for installation and post installation.
