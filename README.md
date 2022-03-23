@@ -49,5 +49,6 @@
 # Credits
 - Apple for macOS.
 - Acidanthera for OpenCore and all the lovely hackintosh work.
+- corpnewt For offline installer.
 - Dortania For great and detailed guides.
 - VNOHackintosh Support group for installation and post installation.
