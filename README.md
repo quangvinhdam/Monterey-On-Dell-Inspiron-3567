@@ -28,14 +28,23 @@
 - Airdrop
 
 # Preview macOS on Dell Inspiron 15 3567:
-- https://youtu.be/7htfHJ1e4Ik
+- https://www.youtube.com/watch?v=ZpnzJdrAeqo&t=44s
 
 # Screenshot:
+- Light:
 
+![Light](./Images/Light.png)
 
-![1](.Img/Hackintool1.png)
-![](.Img/Hackintool2.png)
-![](.Img/info.png)
+- Dark:
+
+![Dark](./Images/Dark.png)
+
+- SDCard Port (Fixed in Clover 5139):
+
+![SDCard](./Images/SDCard.png)
+
+# Download EFI (Opencore 0.7.9)
+- https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567/releases/tag/0.7.9
 
 
 # Download EFI (Opencore 0.7.9)
