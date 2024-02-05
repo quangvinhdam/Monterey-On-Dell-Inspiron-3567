@@ -33,7 +33,7 @@
 # Screenshot:
 
 
-![](.Img/Hackintool1.png)
+![1](.Img/Hackintool1.png)
 ![](.Img/Hackintool2.png)
 ![](.Img/info.png)
 
